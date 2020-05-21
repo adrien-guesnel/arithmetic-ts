@@ -1,6 +1,6 @@
 # Arithmetic-ts
 
-A simple library write in typescript to make some artihmetic operations.
+A simple library writes in typescript to make some artihmetic operations.
 
 ## Operations available
 
