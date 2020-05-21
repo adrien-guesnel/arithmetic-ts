@@ -1,0 +1,22 @@
+{
+  "name": "@adrien-guesnel/arithmetic-ts",
+  "version": "1.0.0",
+  "description": "Library in typescript to make some arithmetic operations",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "deploy": "npm publish"
+  },
+  "author": "Adrien Guesnel",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrien-guesnel/arithmetic-ts"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
